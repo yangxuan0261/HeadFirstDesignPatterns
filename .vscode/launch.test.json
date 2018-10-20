@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "asd0012",
+                "projectName": "asd0012",
+                "workingDirectory": "c:\\Users\\Administrator\\Desktop\\testjava\\asd0012",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "asd0012",
+                "projectName": "asd0012",
+                "workingDirectory": "c:\\Users\\Administrator\\Desktop\\testjava\\asd0012",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
